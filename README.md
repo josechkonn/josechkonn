@@ -28,22 +28,16 @@
 
 ## ▍PROYECTOS
 
-<div align="center">
+| | PROYECTO | QUÉ HACE | STACK |
+|:-:|:--|:--|:--|
+| **01** | [**TRAMA Studio**](https://github.com/josechkonn/trama-studio) ` PRIVADO ` | Director de video autónomo para macOS con IA | ![Electron](https://img.shields.io/badge/Electron-0A0A0A?style=flat-square&logo=electron&logoColor=FF1E1E) ![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=FF1E1E) ![Vite](https://img.shields.io/badge/Vite-0A0A0A?style=flat-square&logo=vite&logoColor=FF1E1E) |
+| **02** | [**PosBit**](https://github.com/josechkonn/PosBit)  | Inventario y punto de venta multi-moneda | ![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=nextdotjs&logoColor=FF1E1E) ![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=FF1E1E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=FF1E1E) |
+| **03** | [**NX Controles**](https://github.com/josechkonn/nxcontroles)  | Tu celular como Joy-Con para Mac | ![Swift](https://img.shields.io/badge/Swift-0A0A0A?style=flat-square&logo=swift&logoColor=FF1E1E) ![Kotlin](https://img.shields.io/badge/Kotlin-0A0A0A?style=flat-square&logo=kotlin&logoColor=FF1E1E) ![Android](https://img.shields.io/badge/Android-0A0A0A?style=flat-square&logo=android&logoColor=FF1E1E) |
+| **04** | [**APFSCleaner**](https://github.com/josechkonn/APFSCleaner)  | Limpia snapshots APFS y libera disco | ![Swift](https://img.shields.io/badge/Swift-0A0A0A?style=flat-square&logo=swift&logoColor=FF1E1E) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A0A0A?style=flat-square&logo=swift&logoColor=FF1E1E) |
+| **05** | [**NovaStack**](https://github.com/josechkonn/NovaStack)  | Gestiona tu stack local de desarrollo | ![Swift](https://img.shields.io/badge/Swift-0A0A0A?style=flat-square&logo=swift&logoColor=FF1E1E) ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=FF1E1E) |
+| **06** | [**La Nueva Esperanza**](https://github.com/josechkonn/lanuevaesperanza) ` SOCIAL ` | Plataforma agroalimentaria para una comuna | ![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=flat-square&logo=php&logoColor=FF1E1E) ![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=flat-square&logo=mysql&logoColor=FF1E1E) |
 
-<img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-trama.svg" alt="trama" width="100%"/>
-
-<a href="https://github.com/josechkonn/PosBit"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-posbit.svg" alt="posbit" width="100%"/></a>
-
-<a href="https://github.com/josechkonn/nxcontroles"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-nx.svg" alt="nx" width="100%"/></a>
-
-<a href="https://github.com/josechkonn/APFSCleaner"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-apfs.svg" alt="apfs" width="100%"/></a>
-
-<a href="https://github.com/josechkonn/NovaStack"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-nova.svg" alt="nova" width="100%"/></a>
-
-<a href="https://github.com/josechkonn/lanuevaesperanza"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-esperanza.svg" alt="esperanza" width="100%"/></a>
-
-<sub>Haz clic en un proyecto para abrir el repositorio · TRAMA Studio es privado</sub>
-</div>
+<sub>TRAMA Studio es privado, por eso su enlace no abre.</sub>
 
 <br/>
 
