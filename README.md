@@ -29,13 +29,20 @@
 ## ▍PROYECTOS
 
 <div align="center">
-<table>
-<tr><td><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-trama.svg" alt="trama" width="420"/></td><td><a href="https://github.com/josechkonn/PosBit"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-posbit.svg" alt="posbit" width="420"/></a></td></tr>
-<tr><td><a href="https://github.com/josechkonn/nxcontroles"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-nx.svg" alt="nx" width="420"/></a></td><td><a href="https://github.com/josechkonn/APFSCleaner"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-apfs.svg" alt="apfs" width="420"/></a></td></tr>
-<tr><td><a href="https://github.com/josechkonn/NovaStack"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-nova.svg" alt="nova" width="420"/></a></td><td><a href="https://github.com/josechkonn/lanuevaesperanza"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-esperanza.svg" alt="esperanza" width="420"/></a></td></tr>
-</table>
 
-<sub>Haz clic en una tarjeta para abrir el repositorio · TRAMA Studio es privado</sub>
+<img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-trama.svg" alt="trama" width="100%"/>
+
+<a href="https://github.com/josechkonn/PosBit"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-posbit.svg" alt="posbit" width="100%"/></a>
+
+<a href="https://github.com/josechkonn/nxcontroles"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-nx.svg" alt="nx" width="100%"/></a>
+
+<a href="https://github.com/josechkonn/APFSCleaner"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-apfs.svg" alt="apfs" width="100%"/></a>
+
+<a href="https://github.com/josechkonn/NovaStack"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-nova.svg" alt="nova" width="100%"/></a>
+
+<a href="https://github.com/josechkonn/lanuevaesperanza"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-esperanza.svg" alt="esperanza" width="100%"/></a>
+
+<sub>Haz clic en un proyecto para abrir el repositorio · TRAMA Studio es privado</sub>
 </div>
 
 <br/>
