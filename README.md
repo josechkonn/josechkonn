@@ -6,7 +6,7 @@
 
 <br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=josechkonn&color=FF1E1E&style=for-the-badge&label=VISITAS)
+![Repos](https://img.shields.io/github/followers/josechkonn?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=FF1E1E)
 ![UPTAIE](https://img.shields.io/badge/UPTAIE-INFORM%C3%81TICA-000000?style=for-the-badge&labelColor=FF1E1E&color=000000)
 ![Táchira](https://img.shields.io/badge/T%C3%81CHIRA-VENEZUELA-000000?style=for-the-badge&labelColor=FFFFFF&color=000000&logoColor=FF1E1E)
 
