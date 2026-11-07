@@ -23,16 +23,17 @@
 <rect x="0" y="46" width="860" height="2" fill="url(#g)"/>
 <text x="40" y="96" class="k">&gt; IDENTIDAD</text>
 <text x="40" y="150" class="w" font-size="46" font-weight="800">JOSE CHACÓN</text>
-<text x="40" y="180" class="r" font-size="16" font-weight="700" letter-spacing="1">T.S.U. EN INFORMÁTICA<tspan fill="#fff"> → </tspan>INGENIERO EN INFORMÁTICA</text>
-<text x="40" y="204" class="k">UPTAIE · TÁCHIRA, VENEZUELA</text>
-<text x="40" y="244" class="t">Construyo <tspan class="w" font-weight="700">productos reales</tspan>: sistemas de inventario y POS,</text>
-<text x="40" y="268" class="t">apps nativas para <tspan class="w" font-weight="700">macOS y Android</tspan> y herramientas de video con IA.</text>
-<text x="40" y="292" class="t">Primero funciona. Luego se ve <tspan class="r" font-weight="700">impecable</tspan>.<tspan class="r blink">█</tspan></text>
-<g transform="translate(560,92)">
+<text x="40" y="178" class="r" font-size="15" font-weight="700" letter-spacing="1">T.S.U. EN INFORMÁTICA<tspan fill="#fff"> → </tspan>ING. EN INFORMÁTICA</text>
+<text x="40" y="202" class="k">UPTAIE · TÁCHIRA, VENEZUELA</text>
+<text x="40" y="238" class="t">Construyo <tspan class="w" font-weight="700">productos reales</tspan>: inventarios,</text>
+<text x="40" y="260" class="t">POS, apps nativas <tspan class="w" font-weight="700">macOS y Android</tspan></text>
+<text x="40" y="282" class="t">y herramientas de video con IA.</text>
+<text x="40" y="304" class="t">Primero funciona. Luego se ve <tspan class="r" font-weight="700">impecable</tspan>.<tspan class="r blink">█</tspan></text>
+<g transform="translate(590,92)">
 <text class="k" y="0">&gt; AHORA MISMO</text>
-<g transform="translate(0,14)"><path d="M0 0H215L230 14V44H15L0 30Z" fill="none" stroke="#FF1E1E"/><text x="20" y="28" class="w" font-size="13" font-weight="700">SWIFT CONCURRENCY</text></g>
-<g transform="translate(0,72)"><path d="M0 0H215L230 14V44H15L0 30Z" fill="none" stroke="#FF1E1E"/><text x="20" y="28" class="w" font-size="13" font-weight="700">IA AGÉNTICA</text></g>
-<g transform="translate(0,130)"><path d="M0 0H215L230 14V44H15L0 30Z" fill="none" stroke="#FF1E1E"/><text x="20" y="28" class="w" font-size="13" font-weight="700">ARQUITECTURA DE SISTEMAS</text></g>
+<g transform="translate(0,14)"><path d="M0 0H205L220 14V44H15L0 30Z" fill="none" stroke="#FF1E1E"/><text x="20" y="28" class="w" font-size="12" font-weight="700">SWIFT CONCURRENCY</text></g>
+<g transform="translate(0,72)"><path d="M0 0H205L220 14V44H15L0 30Z" fill="none" stroke="#FF1E1E"/><text x="20" y="28" class="w" font-size="12" font-weight="700">IA AGÉNTICA</text></g>
+<g transform="translate(0,130)"><path d="M0 0H205L220 14V44H15L0 30Z" fill="none" stroke="#FF1E1E"/><text x="20" y="28" class="w" font-size="12" font-weight="700">ARQUITECTURA DE SISTEMAS</text></g>
 </g>
 <text x="40" y="336" class="k">&gt; ESPECIALIDADES</text>
 <g transform="translate(40,350)">
