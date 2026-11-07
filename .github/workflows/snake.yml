@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate stats and snake
 on:
   schedule: [{cron: "0 */12 * * *"}]
   workflow_dispatch:
@@ -6,15 +6,20 @@ on:
 permissions:
   contents: write
 jobs:
-  snake:
+  build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+      - run: python3 .github/scripts/stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#FF1E1E&color_dots=#1a1a1a,#5E0808,#8A0C0C,#D91616,#FF1E1E
+            dist/github-snake-dark.svg?color_snake=#FF1E1E&color_dots=#1a1a1a,#5E0808,#8A0C0C,#D91616,#FF1E1E
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
