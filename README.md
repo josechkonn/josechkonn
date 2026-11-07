@@ -10,6 +10,10 @@
 ![UPTAIE](https://img.shields.io/badge/T.S.U.-INFORM%C3%81TICA-000000?style=for-the-badge&labelColor=FF1E1E&color=000000)
 ![Táchira](https://img.shields.io/badge/T%C3%81CHIRA-VENEZUELA-000000?style=for-the-badge&labelColor=FFFFFF&color=000000&logoColor=FF1E1E)
 
+
+[![GitHub](https://img.shields.io/badge/GITHUB-josechkonn-000000?style=for-the-badge&logo=github&logoColor=FF1E1E)](https://github.com/josechkonn)
+[![Email](https://img.shields.io/badge/CONTACTO-ESCR%C3%8DBEME-FF1E1E?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:jose.a.chacon.g.2005@gmail.com)
+
 </div>
 
 <br/>
@@ -103,9 +107,6 @@ Plataforma de soberanía agroalimentaria para una comuna de La Grita: catálogo 
 <br/>
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GITHUB-josechkonn-000000?style=for-the-badge&logo=github&logoColor=FF1E1E)](https://github.com/josechkonn)
-[![Email](https://img.shields.io/badge/CONTACTO-ESCR%C3%8DBEME-FF1E1E?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:jose.a.chacon.g.2005@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1E1E,60:7A0000,100:000000&height=110&section=footer" width="100%" alt="footer"/>
 
