@@ -7,7 +7,7 @@
 <br/>
 
 ![Repos](https://img.shields.io/github/followers/josechkonn?style=for-the-badge&label=FOLLOWERS&labelColor=000000&color=FF1E1E)
-![UPTAIE](https://img.shields.io/badge/UPTAIE-INFORM%C3%81TICA-000000?style=for-the-badge&labelColor=FF1E1E&color=000000)
+![UPTAIE](https://img.shields.io/badge/T.S.U.-INFORM%C3%81TICA-000000?style=for-the-badge&labelColor=FF1E1E&color=000000)
 ![Táchira](https://img.shields.io/badge/T%C3%81CHIRA-VENEZUELA-000000?style=for-the-badge&labelColor=FFFFFF&color=000000&logoColor=FF1E1E)
 
 </div>
@@ -16,7 +16,7 @@
 
 ## ▍SOBRE MÍ
 
-Estudiante de Informática que construye **productos reales**: sistemas de inventario y punto de venta, apps nativas para macOS y Android, y herramientas de video con IA. Me obsesiona el detalle de la interfaz y el rendimiento. Primero funciona, luego se ve impecable.
+T.S.U. en Informática, a un año de ser Ingeniero en Informática (UPTAIE). Construyo **productos reales**: sistemas de inventario y punto de venta, apps nativas para macOS y Android, y herramientas de video con IA. Me obsesiona el detalle de la interfaz y el rendimiento. Primero funciona, luego se ve impecable.
 
 | ▍ENFOQUE | ▍AHORA MISMO |
 |:--|:--|
