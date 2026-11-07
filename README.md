@@ -28,54 +28,15 @@
 
 ## ▍PROYECTOS
 
+<div align="center">
 <table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔴 TRAMA STUDIO · *privado*
-Director audiovisual autónomo para macOS. Pipeline de video con IA, voz y modelos 3D.
-
-`Electron` `TypeScript` `Vite` `Tailwind`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔴 [POSBIT](https://github.com/josechkonn/PosBit)
-Inventario y punto de venta: kardex, compras, ventas, reportes y multi-moneda.
-
-`Next.js` `React 19` `PostgreSQL` `Tailwind v4`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔴 [NX CONTROLES](https://github.com/josechkonn/nxcontroles) + [NX REMOTE](https://github.com/josechkonn/nxremote-android)
-Tu celular como Joy-Con para Mac. UDP a 60–120 Hz, QR pairing y Bluetooth HID.
-
-`Swift` `Kotlin` `Android` `UDP`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔴 [APFSCLEANER](https://github.com/josechkonn/APFSCleaner) · [NOVASTACK](https://github.com/josechkonn/NovaStack)
-Utilidades nativas para macOS: limpieza de snapshots APFS y stack local de desarrollo.
-
-`SwiftUI` `Python` `macOS`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-#### 🔴 [LA NUEVA ESPERANZA](https://github.com/josechkonn/lanuevaesperanza)
-Plataforma de soberanía agroalimentaria para una comuna de La Grita: catálogo de 39 rubros, mapa, orientación en vivo y panel de administración. Tecnología con impacto social.
-
-`PHP` `MySQL` `JavaScript`
-
-</td>
-</tr>
+<tr><td><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-trama.svg" alt="trama" width="420"/></td><td><a href="https://github.com/josechkonn/PosBit"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-posbit.svg" alt="posbit" width="420"/></a></td></tr>
+<tr><td><a href="https://github.com/josechkonn/nxcontroles"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-nx.svg" alt="nx" width="420"/></a></td><td><a href="https://github.com/josechkonn/APFSCleaner"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-apfs.svg" alt="apfs" width="420"/></a></td></tr>
+<tr><td><a href="https://github.com/josechkonn/NovaStack"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-nova.svg" alt="nova" width="420"/></a></td><td><a href="https://github.com/josechkonn/lanuevaesperanza"><img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/p-esperanza.svg" alt="esperanza" width="420"/></a></td></tr>
 </table>
+
+<sub>Haz clic en una tarjeta para abrir el repositorio · TRAMA Studio es privado</sub>
+</div>
 
 <br/>
 
@@ -83,7 +44,7 @@ Plataforma de soberanía agroalimentaria para una comuna de La Grita: catálogo 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,swift,kotlin,java,php,python,sh,html,css&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,swift,kotlin,java,php,sh,html,css&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,electron,androidstudio,xcode&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,git,github,linux,apple,vscode&theme=dark" />
 

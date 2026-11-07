@@ -14,6 +14,8 @@ for r in repos:
     try: langs.update(api(f"/repos/{USER}/{r['name']}/languages"))
     except Exception: pass
 total = sum(langs.values()) or 1
+langs.pop("Python", None)
+total = sum(langs.values()) or 1
 top = langs.most_common(6)
 RED, BLK, WHT, GRY = "#FF1E1E", "#0A0A0A", "#FFFFFF", "#8A8A8A"
 shades = ["#FF1E1E", "#D91616", "#B01010", "#8A0C0C", "#5E0808", "#3A0505"]

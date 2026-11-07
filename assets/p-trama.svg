@@ -1,0 +1,9 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='420' height='184' viewBox='0 0 420 184' font-family='JetBrains Mono,SF Mono,Menlo,Consolas,monospace'>
+<style>.p{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.3}}</style>
+<path d='M0 0H390L420 30V184H30L0 154Z' fill='#0A0A0A'/><rect y='0' width='6' height='184' fill='#FF1E1E'/>
+<text x='24' y='36' fill='#FF1E1E' font-size='30' font-weight='800' opacity='.9'>01</text>
+<text x='70' y='34' fill='#fff' font-size='17' font-weight='800' letter-spacing='1'>TRAMA STUDIO</text>
+<text x='70' y='52' fill='#fff' font-size='10' letter-spacing='3'><tspan class='p'>●</tspan> PRIVADO</text>
+<path d='M24 66H396' stroke='#FF1E1E' stroke-opacity='.35'/>
+<text x='24' y='92' fill='#d4d4d4' font-size='12.5'>Director audiovisual autónomo para macOS.</text><text x='24' y='112' fill='#d4d4d4' font-size='12.5'>Pipeline de video con IA, voz y 3D.</text><rect x='24' y='140' width='81' height='24' fill='none' stroke='#FF1E1E' stroke-opacity='.7'/><text x='34' y='156' fill='#fff' font-size='11' font-weight='700'>Electron</text><rect x='112.8' y='140' width='96' height='24' fill='none' stroke='#FF1E1E' stroke-opacity='.7'/><text x='122.8' y='156' fill='#fff' font-size='11' font-weight='700'>TypeScript</text><rect x='216.8' y='140' width='50' height='24' fill='none' stroke='#FF1E1E' stroke-opacity='.7'/><text x='226.8' y='156' fill='#fff' font-size='11' font-weight='700'>Vite</text><rect x='275.2' y='140' width='81' height='24' fill='none' stroke='#FF1E1E' stroke-opacity='.7'/><text x='285.2' y='156' fill='#fff' font-size='11' font-weight='700'>Tailwind</text>
+<path d='M0 0H390L420 30V184H30L0 154Z' fill='none' stroke='#FF1E1E' stroke-width='1.5'/></svg>
