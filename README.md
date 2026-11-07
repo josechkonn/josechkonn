@@ -16,13 +16,9 @@
 
 ## ▍SOBRE MÍ
 
-T.S.U. en Informática, a un año de ser Ingeniero en Informática (UPTAIE). Construyo **productos reales**: sistemas de inventario y punto de venta, apps nativas para macOS y Android, y herramientas de video con IA. Me obsesiona el detalle de la interfaz y el rendimiento. Primero funciona, luego se ve impecable.
-
-| ▍ENFOQUE | ▍AHORA MISMO |
-|:--|:--|
-| Apps nativas macOS (Swift/SwiftUI) | Swift concurrency |
-| Web full-stack (Next.js, React, PHP) | IA agéntica y automatización |
-| Herramientas creativas (Electron) | Arquitectura de sistemas |
+<div align="center">
+<img src="https://raw.githubusercontent.com/josechkonn/josechkonn/main/assets/about.svg" alt="Sobre mí" width="100%"/>
+</div>
 
 <br/>
 

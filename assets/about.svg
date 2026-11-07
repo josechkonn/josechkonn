@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="440" viewBox="0 0 860 440" font-family="JetBrains Mono,SF Mono,Menlo,Consolas,monospace">
+<style>
+.k{fill:#8A8A8A;font-size:11px;letter-spacing:3px}
+.r{fill:#FF1E1E}
+.w{fill:#fff}
+.t{fill:#d4d4d4;font-size:14px}
+.blink{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+.scan{animation:s 4s linear infinite}@keyframes s{from{transform:translateY(0)}to{transform:translateY(440px)}}
+.pulse{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.35}}
+</style>
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#FF1E1E"/><stop offset="1" stop-color="#7A0000"/></linearGradient>
+<clipPath id="c"><path d="M0 0H830L860 30V440H30L0 410Z"/></clipPath>
+</defs>
+<path d="M0 0H830L860 30V440H30L0 410Z" fill="#0A0A0A"/>
+<g clip-path="url(#c)">
+<g stroke="#FF1E1E" stroke-opacity=".06"><path d="M0 60H860M0 120H860M0 180H860M0 240H860M0 300H860M0 360H860M0 420H860"/></g>
+<rect class="scan" y="-20" width="860" height="18" fill="#FF1E1E" opacity=".08"/>
+<rect width="860" height="46" fill="#111"/>
+<circle cx="26" cy="23" r="6" fill="#FF1E1E"/><circle cx="48" cy="23" r="6" fill="#fff" opacity=".85"/><circle cx="70" cy="23" r="6" fill="#444"/>
+<text x="96" y="27" class="k">PERFIL.SYS  //  JOSECHKONN</text>
+<text x="834" y="27" class="k" text-anchor="end"><tspan class="r pulse">●</tspan> ONLINE</text>
+<rect x="0" y="46" width="860" height="2" fill="url(#g)"/>
+<text x="40" y="96" class="k">&gt; IDENTIDAD</text>
+<text x="40" y="150" class="w" font-size="46" font-weight="800">JOSE CHACÓN</text>
+<text x="40" y="180" class="r" font-size="16" font-weight="700" letter-spacing="1">T.S.U. EN INFORMÁTICA<tspan fill="#fff"> → </tspan>INGENIERO EN INFORMÁTICA</text>
+<text x="40" y="204" class="k">UPTAIE · TÁCHIRA, VENEZUELA</text>
+<text x="40" y="244" class="t">Construyo <tspan class="w" font-weight="700">productos reales</tspan>: sistemas de inventario y POS,</text>
+<text x="40" y="268" class="t">apps nativas para <tspan class="w" font-weight="700">macOS y Android</tspan> y herramientas de video con IA.</text>
+<text x="40" y="292" class="t">Primero funciona. Luego se ve <tspan class="r" font-weight="700">impecable</tspan>.<tspan class="r blink">█</tspan></text>
+<g transform="translate(560,92)">
+<text class="k" y="0">&gt; AHORA MISMO</text>
+<g transform="translate(0,14)"><path d="M0 0H215L230 14V44H15L0 30Z" fill="none" stroke="#FF1E1E"/><text x="20" y="28" class="w" font-size="13" font-weight="700">SWIFT CONCURRENCY</text></g>
+<g transform="translate(0,72)"><path d="M0 0H215L230 14V44H15L0 30Z" fill="none" stroke="#FF1E1E"/><text x="20" y="28" class="w" font-size="13" font-weight="700">IA AGÉNTICA</text></g>
+<g transform="translate(0,130)"><path d="M0 0H215L230 14V44H15L0 30Z" fill="none" stroke="#FF1E1E"/><text x="20" y="28" class="w" font-size="13" font-weight="700">ARQUITECTURA DE SISTEMAS</text></g>
+</g>
+<text x="40" y="336" class="k">&gt; ESPECIALIDADES</text>
+<g transform="translate(40,350)">
+<rect width="240" height="64" fill="#111"/><rect width="4" height="64" fill="#FF1E1E"/>
+<text x="20" y="26" class="r" font-size="12" font-weight="800" letter-spacing="2">01 · NATIVO</text><text x="20" y="48" class="w" font-size="14" font-weight="700">Swift · SwiftUI · macOS</text>
+</g>
+<g transform="translate(310,350)">
+<rect width="240" height="64" fill="#111"/><rect width="4" height="64" fill="#FF1E1E"/>
+<text x="20" y="26" class="r" font-size="12" font-weight="800" letter-spacing="2">02 · FULL-STACK</text><text x="20" y="48" class="w" font-size="14" font-weight="700">Next.js · React · PHP</text>
+</g>
+<g transform="translate(580,350)">
+<rect width="240" height="64" fill="#111"/><rect width="4" height="64" fill="#FF1E1E"/>
+<text x="20" y="26" class="r" font-size="12" font-weight="800" letter-spacing="2">03 · CREATIVO</text><text x="20" y="48" class="w" font-size="14" font-weight="700">Electron · Video · IA</text>
+</g>
+</g>
+<path d="M0 0H830L860 30V440H30L0 410Z" fill="none" stroke="#FF1E1E" stroke-width="2"/>
+</svg>
